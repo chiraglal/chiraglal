@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiraglal" alt="chiraglal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/notfromaladin" target="blank"><img src="https://img.shields.io/twitter/follow/notfromaladin?logo=twitter&style=for-the-badge" alt="notfromaladin" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/14247776-Coding">
 - 🌱 I’m currently learning **Front End Web development, Java and trying my hands on different things.**
 
 - 📫 How to reach me **chiragla15@gmail.com**
